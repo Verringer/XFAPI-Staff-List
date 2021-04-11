@@ -1,0 +1,16 @@
+{
+    "legacy_addon_id": "",
+    "title": "Staff List API Endpoint",
+    "description": "",
+    "version_id": 1000010,
+    "version_string": "1.0.0 Alpha",
+    "dev": "Verringer",
+    "dev_url": "https://verringer.com",
+    "faq_url": "https://verringer.com/github",
+    "support_url": "https://verringer.com/github/issues",
+    "extra_urls": {
+        "Repo": "https://github.com/verringer/whatever"
+    },
+    "require": [],
+    "icon": "fa-user"
+}
