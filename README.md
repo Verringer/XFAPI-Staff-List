@@ -1,4 +1,5 @@
 # XFAPI-Staff-List
+
 Adds an endpoint to the XenForo 2 API to grab a full list of staff members from the board.
 
 Endpoint can be accessed at /api/users/staff with a valid XF-Api-Key.
