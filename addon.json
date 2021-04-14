@@ -6,10 +6,10 @@
     "version_string": "1.0.0 Alpha",
     "dev": "Verringer",
     "dev_url": "https://verringer.com",
-    "faq_url": "https://verringer.com/github",
-    "support_url": "https://verringer.com/github/issues",
+    "faq_url": "https://github.com/Verringer/XFAPI-Staff-List/blob/main/README.md",
+    "support_url": "https://github.com/Verringer/XFAPI-Staff-List/issues",
     "extra_urls": {
-        "Repo": "https://github.com/verringer/whatever"
+        "Repo": "https://github.com/Verringer/XFAPI-Staff-List"
     },
     "require": [],
     "icon": "fa-user"
